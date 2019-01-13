@@ -1,7 +1,7 @@
 # WindowServerCalpolyStudents
 a tutorial on how to use a ec2 server for your windows needs.
 
-This tutorial is meant for Unix operating systems meaning macOS, linux, BSD ect.. In this tutorial im using arch linux so it might be differnt for your guys but the same concepts apply.
+This tutorial is meant for Unix operating systems meaning macOS, linux, BSD ect.. In this tutorial im using arch linux so it might be different for you guys but the same concepts apply.
 
 ## Parts
 1.) create an ec2 windows instance
