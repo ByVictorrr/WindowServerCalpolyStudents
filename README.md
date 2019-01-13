@@ -32,7 +32,7 @@ For Mac users I didnt try using this application coRD but it should work. Follow
 
 Open up the application installed in part 2 it should look something like this:
 
-![image remmina](https://github.com/ByVictorrr/WindowServerCalpolyStudents/blob/master/ink%20.png)
+![image remmina](https://github.com/ByVictorrr/WindowServerCalpolyStudents/blob/master/ink.png)
 
 click the + button:
 
@@ -52,7 +52,7 @@ Enter in Domain: Public DNS (IPv4)
 Finally press save and connect, it should look something like this.
 
 
-![log in](https://github.com/ByVictorrr/WindowServerCalpolyStudents/blob/master/ink%20(1).png)
+![log in](https://github.com/ByVictorrr/WindowServerCalpolyStudents/blob/master/Screenshot%202019-01-13%20at%2012.49.08%20PM.png)
 
 #### Final Notes
 
