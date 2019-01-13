@@ -5,7 +5,9 @@ This tutorial is meant for Unix operating systems meaning macOS, linux, BSD ect.
 
 ## Parts
 1.) create an ec2 windows instance
+
 2.) install a RPD application
+
 3.) log into the EC2 instance using the application installed in Part 2
 
 ### Part 1
@@ -16,6 +18,7 @@ After creating the instance - go to instances on the left side panel of and righ
 While being in the Instance tab still also record:
 
 1.)Public DNS (IPv4)
+
 2.)Pv4 Public IP
 
 
@@ -29,11 +32,11 @@ For Mac users I didnt try using this application coRD but it should work. Follow
 
 Open up the application installed in part 2 it should look something like this:
 
-![image remmina](https://github.com/ByVictorrr/WindowServerCalpolyStudents/master/remmina.png)
+![image remmina](https://github.com/ByVictorrr/WindowServerCalpolyStudents/blob/master/ink%20.png)
 
 click the + button:
 
-![image remmina add ](https://github.com/ByVictorrr/WindowServerCalpolyStudents/master/remmina_add.png)
+![image remmina add ](https://github.com/ByVictorrr/WindowServerCalpolyStudents/blob/master/ink%20(1).png)
 
 click on protocol and select RPD
 
@@ -49,7 +52,7 @@ Enter in Domain: Public DNS (IPv4)
 Finally press save and connect, it should look something like this.
 
 
-
+![log in](https://github.com/ByVictorrr/WindowServerCalpolyStudents/blob/master/ink%20(1).png)
 
 #### Final Notes
 
