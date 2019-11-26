@@ -1,19 +1,19 @@
 # WindowServerCalpolyStudents
-A tutorial on how to use a ec2 server for your windows needs.
+A tutorial on how to use an EC2 server for your windows needs. (I needed this to run the RAT assembler for CPE233)
 
-This tutorial is meant for Unix operating systems meaning macOS, linux, BSD ect.. In this tutorial im using arch linux so it might be different for you guys but the same concepts apply.
+This tutorial is meant for UNIX operating systems that is: macOS, linux, BSD ect.. In this tutorial I will be using arch linux therefore it might be different for you but, the same concepts apply.
 
 ## Parts
-1.) create an ec2 windows instance
+1.) Create an EC2 windows instance
 
-2.) install a RPD application
+2.) Install a RPD application
 
-3.) log into the EC2 instance using the application installed in Part 2
+3.) Log into the EC2 instance using the application installed in Part 2
 
 ### Part 1
-Use this tutorial to help create an intsance of the ec2 windows server: https://www.youtube.com/watch?v=5FepK5pV39c, make sure you download the .pem file - for the password.
+Use this tutorial to help create an intsance of the EC2 windows server: https://www.youtube.com/watch?v=5FepK5pV39c, make sure you download the .pem file - for the password.
 
-After creating the instance - go to instances on the left side panel of and right click on the instance you just created. Click on get Windows password, it will next have an option to upload a .pem file in order to decryct it an get your password. Next your password will show copy it and save it for later.
+After creating the instance go to instances on the left side panel of and right click on the instance you just created. Click on get Windows password. It will next have an option to upload a .pem file in order to decryct it an get your password. Next your password will show copy it and save it for later.
 
 While being in the Instance tab still also record:
 
